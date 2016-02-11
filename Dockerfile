@@ -1,4 +1,4 @@
-## Version: 0.4
+## Version: 0.1
 MAINTAINER Anton Bugreev <anton@bugreev.ru>
 
 FROM ruby:2
