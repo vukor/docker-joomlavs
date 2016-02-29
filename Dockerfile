@@ -27,4 +27,3 @@ RUN gem install bundler && \
 
 ## Run scanner
 ENTRYPOINT ["ruby", "joomlavs.rb"]
-
