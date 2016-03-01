@@ -7,4 +7,3 @@ def build():
 @task
 def push():
     local(" docker push vukor/joomlavs ")
-
